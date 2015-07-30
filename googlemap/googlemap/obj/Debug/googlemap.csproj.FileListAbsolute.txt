@@ -4,3 +4,9 @@ c:\users\janhvi\documents\visual studio 2013\Projects\googlemap\googlemap\bin\go
 c:\users\janhvi\documents\visual studio 2013\Projects\googlemap\googlemap\obj\Debug\googlemap.dll
 c:\users\janhvi\documents\visual studio 2013\Projects\googlemap\googlemap\obj\Debug\googlemap.pdb
 c:\users\janhvi\documents\visual studio 2013\Projects\googlemap\googlemap\obj\Debug\googlemap.csprojResolveAssemblyReference.cache
+C:\Users\Janhvi\Documents\GitHub\TestModule2-Geolocation\googlemap\googlemap\bin\googlemap.dll.config
+C:\Users\Janhvi\Documents\GitHub\TestModule2-Geolocation\googlemap\googlemap\bin\googlemap.dll
+C:\Users\Janhvi\Documents\GitHub\TestModule2-Geolocation\googlemap\googlemap\bin\googlemap.pdb
+C:\Users\Janhvi\Documents\GitHub\TestModule2-Geolocation\googlemap\googlemap\obj\Debug\googlemap.csprojResolveAssemblyReference.cache
+C:\Users\Janhvi\Documents\GitHub\TestModule2-Geolocation\googlemap\googlemap\obj\Debug\googlemap.dll
+C:\Users\Janhvi\Documents\GitHub\TestModule2-Geolocation\googlemap\googlemap\obj\Debug\googlemap.pdb
